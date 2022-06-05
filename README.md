@@ -4,9 +4,9 @@ Other thing you need to know:
 - 🌱 I’m currently learning on programming.
 
 ### My Stats
-![an-dreee's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-dreee&show_icons=true&theme=radical)
+![andre-sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-sky&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=an-dreee&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/an-dreee)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-sky&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/an-dreee)
 
 ### Let's connect!
 <p>
