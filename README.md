@@ -6,7 +6,7 @@ Other thing you need to know:
 ### My Stats
 ![andre-sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-sky&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-sky&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/an-dreee)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-sky&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/andre-sky)
 
 ### Let's connect!
 <p>
