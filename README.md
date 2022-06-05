@@ -1,9 +1,14 @@
 # Hi there 👋 , I'm Andre
 
 ### Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=an-dreee&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-</p>
+Other thing you need to know:
+
+- 🌱 I’m currently learning on programming.
+
+### My Stats
+![Levina-Lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=an-dreee&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=an-dreee&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/levina-lab)
 
 ### Let's connect!
 <p>
