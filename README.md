@@ -1,8 +1,6 @@
 # Hi there 👋 , I'm Andre
 
-### Stats:
 Other thing you need to know:
-
 - 🌱 I’m currently learning on programming.
 
 ### My Stats
