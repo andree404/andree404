@@ -9,6 +9,6 @@
 <p>
     <a href="https://m.facebook.com/bangbosnamonyo?ref=bookmarks" target="blank"><img src="https://img.shields.io/badge/Andre-30302f?style=flat&logo=facebook" /></a>
     <a href="https://t.me/VckyouuBitch" target="blank"><img src="https://img.shields.io/badge/@VckyouuBitch-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/Vckyouuu" target="blank"><img src="https://img.shields.io/badge/@Vckyouuu-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://twitter.com/Vckyouuu" target="blank"><img src="https://img.shields.io/badge/@Vckyouuu-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://instagram.com/ndre9310" target="blank"><img src="https://img.shields.io/badge/@ndre9310-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://twitter.com/skyzuuuuu" target="blank"><img src="https://img.shields.io/badge/@skyzuuuuu-30302f?style=flat&logo=twitter" /></a>
 </p>
