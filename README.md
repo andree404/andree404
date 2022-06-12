@@ -11,6 +11,6 @@ Other thing you need to know:
 ### Let's connect!
 <p>
     <a href="https://instagram.com/ndre9310" target="blank"><img src="https://img.shields.io/badge/@ndre9310-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://t.me/Andreskyz" target="blank"><img src="https://img.shields.io/badge/@Andreskyz-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/Andree404" target="blank"><img src="https://img.shields.io/badge/@Andree404-30302f?style=flat&logo=telegram" /></a>
     <a href="https://twitter.com/skyzuuuuu" target="blank"><img src="https://img.shields.io/badge/@skyzuuuuu-30302f?style=flat&logo=twitter" /></a>
 </p>
